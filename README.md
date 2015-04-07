@@ -1,0 +1,1 @@
+Pitch perfect is a practice iOS app developed fully using Swift. The app basically records a user's voice and then gives the option to apply a user selected filter before playing back the voice. 
